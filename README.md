@@ -12,7 +12,8 @@
 [7. Project 7 - Кластеризация клиентов онлайн-магазина](./README.md#7-Project-7)   
 [8. Project 8 - Кластеризация населения России](./README.md#8-Project-8)    
 [9. Project 9 - Практика по обработке Data Frame](./README.md#9-Project-9)
- [10. Project 10 - Проект о вкусной и здоровой пище](./README.md#10-Project-10)
+ 
+[10. Project 10 - Проект о вкусной и здоровой пище](./README.md#10-Project-10)
     
 
 ### 1. Project 1
