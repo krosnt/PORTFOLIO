@@ -3,17 +3,17 @@
 ## <CENTER>В данном репозитории содержатся проекты Data Science на различные темы.
 
 ### Оглавление
-    [1. Project 1 - Предстказание числа в игре](./README.md#1-Project-1)    
-    [2. Project 2 - Рекомендательная система на hh.ru](./README.md#2-Project-2)    
-    [3. Project 3 - Предсказание рейтинга отеля](./README.md#3-Project-3)   
-    [4. Project 4 - Задача линейной регрессии](./README.md#4-Project-4)    
-    [5. Project 5 - Предсказание биологического ответа молекул](./README.md#5-Project-5)   
-    [6. Project 6 - Классификация клиентов банка](./README.md#6-Project-6)   
-    [7. Project 7 - Кластеризация клиентов онлайн-магазина](./README.md#7-Project-7)   
-    [8. Project 8 - Кластеризация населения России](./README.md#8-Project-8)    
-    [9. Project 9 - Практика по обработке Data Frame](./README.md#9-Project-9)          
-    [10. Project 10 - Проект о вкусной и здоровой пище](./README.md#10-Project-10)             
-    [11. Project 11 - Прогнозирование стоимости автомобиля по характеристикам](./README.md#11-Project-11)         
+[1. Project 1 - Предстказание числа в игре](./README.md#1-Project-1)    
+[2. Project 2 - Рекомендательная система на hh.ru](./README.md#2-Project-2)    
+[3. Project 3 - Предсказание рейтинга отеля](./README.md#3-Project-3)   
+[4. Project 4 - Задача линейной регрессии](./README.md#4-Project-4)    
+[5. Project 5 - Предсказание биологического ответа молекул](./README.md#5-Project-5)   
+[6. Project 6 - Классификация клиентов банка](./README.md#6-Project-6)   
+[7. Project 7 - Кластеризация клиентов онлайн-магазина](./README.md#7-Project-7)   
+[8. Project 8 - Кластеризация населения России](./README.md#8-Project-8)    
+[9. Project 9 - Практика по обработке Data Frame](./README.md#9-Project-9)          
+[10. Project 10 - Проект о вкусной и здоровой пище](./README.md#10-Project-10)             
+[11. Project 11 - Прогнозирование стоимости автомобиля по характеристикам](./README.md#11-Project-11)         
 
 
     
