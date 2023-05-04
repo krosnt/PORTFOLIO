@@ -10,7 +10,7 @@
 [5. Project 5 - Предсказание биологического ответа молекул](./README.md#5-Project-5)   
 [6. Project 6 - Классификация клиентов банка](./README.md#6-Project-6)   
 [7. Project 7 - Кластеризация клиентов онлайн-магазина](./README.md#7-Project-7)   
-[8. Project 8 - Кластеризация населения России](./README.md#8-Project-8)    
+[8. Project 8 - Кластеризация населения России (ДИПЛОМНАЯ РАБОТА)](./README.md#8-Project-8)    
 [9. Project 9 - Практика по обработке Data Frame](./README.md#9-Project-9)          
 [10. Project 10 - Проект о вкусной и здоровой пище](./README.md#10-Project-10)             
 [11. Project 11 - Прогнозирование стоимости автомобиля по характеристикам](./README.md#11-Project-11)         
